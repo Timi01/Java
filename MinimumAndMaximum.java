@@ -6,8 +6,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int counter = 0;
-        int min = Integer.MIN_VALUE; // or int min = 0;
-        int max = Integer.MAX_VALUE; // or int max = 0;
+        int min = Integer.MIN_VALUE; 
+        int max = Integer.MAX_VALUE; 
 
         while (counter < 10) {
             int order = counter + 1;
