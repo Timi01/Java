@@ -1,5 +1,3 @@
-package com.Timi;
-
 import java.util.Scanner;
 
 public class Main {
